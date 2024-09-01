@@ -1,6 +1,6 @@
 # 🎮 Unity-Restbase a Unity Firebase REST API Wrapper
 
-Welcome to **Unity Restbase! 🚀
+Welcome to **Unity Restbase**! 🚀
 
 Are you working on a Unity project that targets WebGL and noticed that the official Firebase SDK doesn’t play well with it? Or maybe you just want more control over your Firebase Firestore and Storage interactions in Unity? Well, look no further! (Hopefully...)
 
