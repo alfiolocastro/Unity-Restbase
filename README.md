@@ -15,7 +15,7 @@ This project is a **lightweight** and **flexible** API wrapper that mimics the o
 
 ## 🔧 How to Get Started
 
-1. **Installation:** Clone this repository and add it to your Unity project.
+1. **Installation:** Clone this repository and add it to your Unity project. Add to Assets/Resources your google-services.json firebase config file.
 2. **Usage:** Simply replace your Firebase Firestore and Storage API calls with our wrapper’s namespace, classes, and methods. You’re ready to go!
 3. **Enjoy:** Sit back and watch as your WebGL builds interact seamlessly with Firebase Firestore and Storage! 🎉
 
